@@ -7,7 +7,7 @@
 ### 👤 About Me
 I am a web developer and technical support with a focus on **workflow automation**. I enjoy bridging the gap between technical stability and creative design.
 
-* **Interests:** Photography, Embroidery, and Traditional Sketching.
+* **Interests:** Photography, Embroidery, and Traditional Sketching, Learning.
 * **Status:** Open to new freelance opportunities.
 * **Portfolio:** [Check out my digital portfolio here!](https://beverlydigitalportfolio.netlify.app/)
 
