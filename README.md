@@ -5,7 +5,7 @@
 ---
 
 ### 👤 About Me
-I am a web developer and technical support specialist with a focus on **workflow automation**. I enjoy bridging the gap between technical stability and creative design.
+I am a web developer and technical support with a focus on **workflow automation**. I enjoy bridging the gap between technical stability and creative design.
 
 * **Interests:** Photography, Embroidery, and Traditional Sketching.
 * **Status:** Open to new freelance opportunities.
