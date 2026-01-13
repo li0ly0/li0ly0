@@ -1,41 +1,34 @@
-# beverly.
+# Beverly
 
-**freelance web developer & tech support** *automating workflows + building creative spaces*
-
----
-
-### about me
-i'm beverly. i enjoy the balance of technical troubleshooting and creative expression. i’m driven by a passion for making things work better through automation and making things look better through code.
-
-outside of tech, my world is very tactile:
-* capturing moments through a lens
-* the slow art of embroidery 
-* traditional sketching on paper
-
-### focus
-right now, i'm exploring the stability of **linux** and the efficiency of **no-code automation**. while i don't have a live project at this moment, i'm spending my time refining my current stack and learning new systems.
+**Freelance Web Developer | Technical Support**
+Building efficient workflows and creative web spaces.
 
 ---
 
-### the toolbox
-*a humble collection of things i've learned.*
+### 👤 Profile
+I am a web developer and technical support specialist with a focus on **workflow automation**. I enjoy bridging the gap between technical stability and creative design.
 
-**development**
-* **html** — advanced
-* **css** & **javascript** — intermediate
-* **java** & **python** — intermediate
-* **node.js**, **react** & **vue** — familiar
-* **sql** — basic foundations
-
-**design & collab**
-* figma, canva, & slack
+* **Learning:** Linux & No-code automation.
+* **Interests:** Photography, Embroidery, and Traditional Sketching.
+* **Status:** Open to new freelance opportunities.
 
 ---
 
-### reach out
-if you'd like to collaborate or just say hi:
-* **email** : [beverlycionrespecia@gmail.com](mailto:beverlycionrespecia@gmail.com)
-* **linkedin** : [beverly's profile](https://www.linkedin.com/in/jfejkjefjknje)
+### 🛠️ Technical Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Development** | HTML (Advanced), CSS, JavaScript, Java, Python |
+| **Frameworks** | Node.js, React, Vue |
+| **Data** | SQL (Foundational) |
+| **Design** | Figma, Canva |
+| **Collaboration** | Slack |
 
 ---
-*“less manual work, more time to sketch.”*
+
+### 📬 Contact Information
+* **Email:** [beverlycionrespecia@gmail.com](mailto:beverlycionrespecia@gmail.com)
+* **LinkedIn:** [beverly's profile](https://www.linkedin.com/in/jfejkjefjknje)
+
+---
+*“Automating the routine to make room for the creative.”*
