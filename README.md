@@ -1,16 +1,15 @@
-# Hi, I am Beverly! 👋
+# Hi, I am Beverly! 
 
 **Freelance Web Developer | Technical Support**
-*Bridging the gap between technical stability and creative design.*
 
 ---
 
 ### 👤 About Me
 I am a web developer and technical support specialist with a focus on **workflow automation**. 
 
-* 🎨 **Interests:** Photography, Embroidery, and Traditional Sketching.
-* 💼 **Status:** Open to new freelance opportunities.
-* 🌐 **Portfolio:** [beverlydigitalportfolio.netlify.app](https://beverlydigitalportfolio.netlify.app/)
+* **Interests:** Photography, Embroidery, and Traditional Sketching.
+* **Status:** Open to new freelance opportunities.
+* **Portfolio:** [beverlydigitalportfolio.netlify.app](https://beverlydigitalportfolio.netlify.app/)
 
 ---
 
@@ -28,8 +27,8 @@ I am a web developer and technical support specialist with a focus on **workflow
 ---
 
 ### 🌱 Currently Learning
-* 🐧 **Linux:** <kbd>Terminal Commands</kbd> and <kbd>System Admin</kbd>
-* 🤖 **Automation:** Building logic flows with No-code tools.
+* **Linux:** <kbd>Terminal Commands</kbd> and <kbd>System Admin</kbd>
+* **Automation:** Building logic flows with No-code tools.
 
 ---
 
