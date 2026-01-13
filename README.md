@@ -1,12 +1,11 @@
-# Beverly
+# Hi, I am Beverly!
 
 **Freelance Web Developer | Technical Support**
-Building efficient workflows and creative web spaces.
 
 ---
 
-### 👤 Profile
-I am a web developer and technical support specialist with a focus on **workflow automation**. I enjoy bridging the gap between technical stability and creative design.
+### 👤 About Me
+I am a web developer and technical support with a focus on **workflow automation**. I enjoy bridging the gap between technical stability and creative design.
 
 * **Learning:** Linux & No-code automation.
 * **Interests:** Photography, Embroidery, and Traditional Sketching.
@@ -18,9 +17,9 @@ I am a web developer and technical support specialist with a focus on **workflow
 
 | Category | Skills |
 | :--- | :--- |
-| **Development** | HTML (Advanced), CSS, JavaScript, Java, Python |
+| **Development** | HTML, CSS, JavaScript, Java, Python |
 | **Frameworks** | Node.js, React, Vue |
-| **Data** | SQL (Foundational) |
+| **Data** | SQL |
 | **Design** | Figma, Canva |
 | **Collaboration** | Slack |
 
@@ -28,7 +27,5 @@ I am a web developer and technical support specialist with a focus on **workflow
 
 ### 📬 Contact Information
 * **Email:** [beverlycionrespecia@gmail.com](mailto:beverlycionrespecia@gmail.com)
-* **LinkedIn:** [beverly's profile](https://www.linkedin.com/in/jfejkjefjknje)
+* **LinkedIn:** [beverly's profile](https://www.linkedin.com/in/beverly-consolacion-a2695b370/)
 
----
-*“Automating the routine to make room for the creative.”*
