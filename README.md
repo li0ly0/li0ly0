@@ -4,7 +4,7 @@
 
 ---
 
-### 👤 About Me
+### About Me
 I am a web developer and technical support with a focus on **workflow automation**. I enjoy bridging the gap between technical stability and creative design.
 
 * **Interests:** Photography, Embroidery, and Traditional Sketching, Learning.
@@ -13,7 +13,7 @@ I am a web developer and technical support with a focus on **workflow automation
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 | Category | Skills |
 | :--- | :--- |
@@ -25,7 +25,7 @@ I am a web developer and technical support with a focus on **workflow automation
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 * **Linux:** Working with terminal commands and system administration.
 * **Automation:** Building efficient logic flows with no-code tools.
 
