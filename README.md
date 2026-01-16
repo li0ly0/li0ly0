@@ -9,6 +9,7 @@
 `html` `css` `js` `java` `python` `sql`
 `node.js` `react` `vue` `linux` `figma`
 
+
 **current activities**
 - learning linux
 - learning n8n automations
