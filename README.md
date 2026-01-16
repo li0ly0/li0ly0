@@ -2,8 +2,9 @@
 
 > web dev / tech support / automation
 
+---
 
-**stack**
+**stack **
 `html` `css` `js` `java` `python` `sql`
 `node.js` `react` `vue` `linux` `figma`
 
