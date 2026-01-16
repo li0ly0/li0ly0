@@ -19,7 +19,6 @@
 
 <br />
 
-<br />
 
 **connect**
 [linkedin](https://www.linkedin.com/in/beverly-consolacion-a2695b370/) / [email](mailto:beverlycionrespecia@gmail.com) / [portfolio](https://beverlydigitalportfolio.netlify.app/)
