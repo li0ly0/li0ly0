@@ -9,7 +9,6 @@
 **stack**
 
 `html` `css` `js` `java` `python` `sql`
-
 `node.js` `react` `vue` `linux` `figma`
 
 <br />
@@ -20,7 +19,6 @@
 - learning n8n automations
 
 <br />
-
 
 <br />
 
