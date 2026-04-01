@@ -1,9 +1,5 @@
 # beverly
 
-`web dev` / `tech support` / `automation`
-
----
-
 Hi! I'm Beverly. You can call me Bing or Bev. I’m into old hardware and Linux, with a focus on building lightweight, bloat-free systems and dashboards. There's not much to see around here, but I am trying to learn every day.
 
 ### stack
