@@ -1,6 +1,6 @@
 # beverly
 
-Hi! I'm Beverly. You can call me Bing or Bev. I’m into old hardware and Linux, with a focus on building lightweight, bloat-free systems and dashboards. There's not much to see around here, but I am trying to learn every day.
+Hi! I'm Beverly. You can call me Bing or Bev. I’m into old hardware and Linux. I am also into building lightweight, bloat-free systems and dashboards. There's not much to see around here, but I am trying to learn every day.
 
 ### stack
 `html` `css` `js` `java` `python` `sql`
