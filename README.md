@@ -4,7 +4,7 @@
 
 ---
 
-Hi! I'm Beverly. I love using my technical skills to fuel my personal hobbies, which right now involve breathing new life into old hardware and diving deep into Linux. I'm all about keeping things clean, efficient, and functional—whether I'm coding a site or optimizing a vintage machine.
+Hi! I'm Beverly. You can call me Bing or Bev. I’m into old hardware and Linux, with a focus on building lightweight, bloat-free systems and dashboards. There's not much to see around here, but I am trying to learn every day.
 
 ### stack
 `html` `css` `js` `java` `python` `sql`
