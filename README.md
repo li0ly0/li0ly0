@@ -7,4 +7,4 @@ Hi! I'm Beverly. You can call me Bing or Bev. I’m into old hardware and Linux.
 `node.js` `react` `vue` `linux` `figma`
 
 ### links
-[linkedin](https://www.linkedin.com/in/beverly-consolacion-a2695b370/) / [email](mailto:beverlycionrespecia@gmail.com) / [portfolio](https://beverlydigitalportfolio.netlify.app/)
+[linkedin](https://www.linkedin.com/in/beverly-consolacion-a2695b370/) / [email](mailto:beverlycionrespecia@gmail.com)
